@@ -1,0 +1,17 @@
+body,html{
+    overflow-x: hidden;
+}
+.container-fluid{
+    background: #07172e;
+}
+.container{
+    background: #07172e;
+}
+@media  (min-width:500px) {
+    .sample{
+        padding-top: 0;
+    }
+}
+.crm{
+    
+}
